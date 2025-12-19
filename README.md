@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Shahzaib Ahmad
 
-<!--
-**shahzaibmuzafar/shahzaibmuzafar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A passionate developer from around the world
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzaibmuzafar&label=Profile views&color=0e75b6&style=flat" alt="shahzaibmuzafar" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on **Basic Concepts**
+
+- 🌱 I'm currently learning **Coding**
+
+- 👨‍💻 All of my projects are available at **[https://shahzaibmuzafar.netlify.app/](https://shahzaibmuzafar.netlify.app/)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/shahzaibmuzafar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shahzaibmuzafar" height="30" width="40" /></a>
+<a href="https://instagram.com/shahzaibaboutnothing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahzaibaboutnothing" height="30" width="40" /></a>
+</p>
+
