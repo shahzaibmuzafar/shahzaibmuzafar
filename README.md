@@ -1,6 +1,6 @@
 # Hi 👋, I'm Shahzaib Ahmad
 
-### A passionate developer from around the world
+### A Beginner developer.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzaibmuzafar&label=Profile views&color=0e75b6&style=flat" alt="shahzaibmuzafar" /> </p>
 
