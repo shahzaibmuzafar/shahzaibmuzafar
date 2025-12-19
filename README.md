@@ -1,8 +1,10 @@
 # Hi 👋, I'm Shahzaib Ahmad
 
-### A Beginner developer.
+### A Beginner Developer.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzaibmuzafar&label=Profile views&color=0e75b6&style=flat" alt="shahzaibmuzafar" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=shahzaibmuzafar&label=Profile%20views&color=0e75b6&style=flat" alt="shahzaibmuzafar" />
+</p>
 
 - 🔭 I'm currently working on **Basic Concepts**
 
@@ -12,7 +14,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/shahzaibmuzafar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shahzaibmuzafar" height="30" width="40" /></a>
-<a href="https://instagram.com/shahzaibaboutnothing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahzaibaboutnothing" height="30" width="40" /></a>
+  <a href="https://github.com/shahzaibmuzafar" target="blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="shahzaibmuzafar" />
+  </a>
+  <a href="https://instagram.com/shahzaibaboutnothing" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="shahzaibaboutnothing" />
+  </a>
 </p>
-
